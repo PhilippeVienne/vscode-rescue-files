@@ -1,0 +1,13 @@
+{
+  "name": "vscode-rescue-files",
+  "version": "0.1.0",
+  "license": "AGPL-3.0",
+  "author": {
+    "name": "Philippe Vienne",
+    "email": "philippe@vienne.me"
+  },
+  "type": "module",
+  "dependencies": {
+    "archiver": "^5.3.1"
+  }
+}
